@@ -15,6 +15,14 @@
 
 ###
 
+- 🥑 Self-taught front-end developer
+
+- 👯 You can find my latest projects on [Frontend Mentor](https://www.frontendmentor.io/profile/gurdittcancode)
+
+- 💬 Ask me about **DSA and front-end web dev**
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
