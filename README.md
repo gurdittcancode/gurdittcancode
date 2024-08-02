@@ -3,8 +3,6 @@
   - ⚛️ A full-stack typescript developer from India
   - 🌱 I develop websites with MERN & Next.js
   - 🔭 I am currently learning PostgreSQL and Prisma
-  - ⚡ Fun fact: I prefer spaces over tabs
-  - 📄 [Resume](https://drive.google.com/file/d/1EPe1g6zD-lstPZiecyr08SP3lnxANieZ/view?usp=sharing)
 
 <br />
 
@@ -31,11 +29,6 @@
   <img src="https://stats.quine.sh/gurdittcancode/languages-over-time?theme=dark" width="48%"/>  
 </a>
 
-
-<h2 align="center"> 📊 GitHub Stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=gurdittcancode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gurdittcancode&theme=dark&hide_border=false)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
