@@ -29,6 +29,6 @@
   <img src="https://stats.quine.sh/gurdittcancode/languages-over-time?theme=dark" width="48%"/>  
 </a>
 
-
+[![An image of @gurdittcancode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurdittcancode)](https://holopin.io/@gurdittcancode)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
